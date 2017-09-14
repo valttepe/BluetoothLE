@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:20:1-51:12
+	package
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:20:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:35:22-78
+application
+ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:37:5-49:19
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Valtteri\.android\build-cache\b3ee6908d4c533dd6b3d0b62e82c6edb4e2124c4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Valtteri\.android\build-cache\459d6fe376b114803c5450551c0d87d24a866d17\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Valtteri\.android\build-cache\9dc44aeb81f96eaa43206e531db1e09c604ec34f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Valtteri\.android\build-cache\d87adef4f8c388db2874f5fbb5a178d39d61014c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Valtteri\.android\build-cache\47418b2334fe1d8ed7f3f165ab45b7f8b66d78d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Valtteri\.android\build-cache\675234454bb3fbb3f639030cea1a598954e8c2f3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Valtteri\.android\build-cache\fc889c611849cc320471219724666ea9f80eef0c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Valtteri\.android\build-cache\0a27f4d3f5e462892795eb877f69f3f08da0d345\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Valtteri\.android\build-cache\4a2e9f068a718627937de1129fdc067dfa8b74a0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Valtteri\.android\build-cache\2ec4509d9eb1a245f83d521e80e98f0800ad9cc3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Valtteri\.android\build-cache\87629f206fd03e2144b042469bdd70455b462dfe\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:37:18-50
+	android:icon
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:38:9-45
+	android:theme
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:39:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:40:9-46:20
+	android:label
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:40:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:43:17-68
+	android:name
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:44:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:47:9-58
+	android:name
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:47:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:48:9-77
+	android:enabled
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:48:53-75
+	android:name
+		ADDED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:48:18-52
+uses-sdk
+INJECTED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Valtteri\.android\build-cache\b3ee6908d4c533dd6b3d0b62e82c6edb4e2124c4\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Valtteri\.android\build-cache\459d6fe376b114803c5450551c0d87d24a866d17\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Valtteri\.android\build-cache\9dc44aeb81f96eaa43206e531db1e09c604ec34f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Valtteri\.android\build-cache\d87adef4f8c388db2874f5fbb5a178d39d61014c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Valtteri\.android\build-cache\47418b2334fe1d8ed7f3f165ab45b7f8b66d78d5\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Valtteri\.android\build-cache\675234454bb3fbb3f639030cea1a598954e8c2f3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Valtteri\.android\build-cache\fc889c611849cc320471219724666ea9f80eef0c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Valtteri\.android\build-cache\0a27f4d3f5e462892795eb877f69f3f08da0d345\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Valtteri\.android\build-cache\4a2e9f068a718627937de1129fdc067dfa8b74a0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Valtteri\.android\build-cache\2ec4509d9eb1a245f83d521e80e98f0800ad9cc3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Valtteri\.android\build-cache\87629f206fd03e2144b042469bdd70455b462dfe\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Valtteri\.android\build-cache\b3ee6908d4c533dd6b3d0b62e82c6edb4e2124c4\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Valtteri\AndroidStudioProjects\android-BluetoothLeGatt-master\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Valtteri\.android\build-cache\b3ee6908d4c533dd6b3d0b62e82c6edb4e2124c4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Valtteri\.android\build-cache\459d6fe376b114803c5450551c0d87d24a866d17\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Valtteri\.android\build-cache\9dc44aeb81f96eaa43206e531db1e09c604ec34f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Valtteri\.android\build-cache\d87adef4f8c388db2874f5fbb5a178d39d61014c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Valtteri\.android\build-cache\47418b2334fe1d8ed7f3f165ab45b7f8b66d78d5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Valtteri\.android\build-cache\675234454bb3fbb3f639030cea1a598954e8c2f3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Valtteri\.android\build-cache\fc889c611849cc320471219724666ea9f80eef0c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Valtteri\.android\build-cache\0a27f4d3f5e462892795eb877f69f3f08da0d345\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Valtteri\.android\build-cache\4a2e9f068a718627937de1129fdc067dfa8b74a0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Valtteri\.android\build-cache\2ec4509d9eb1a245f83d521e80e98f0800ad9cc3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Valtteri\.android\build-cache\87629f206fd03e2144b042469bdd70455b462dfe\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Valtteri\.android\build-cache\b3ee6908d4c533dd6b3d0b62e82c6edb4e2124c4\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Valtteri\.android\build-cache\b3ee6908d4c533dd6b3d0b62e82c6edb4e2124c4\output\AndroidManifest.xml:26:9-47
